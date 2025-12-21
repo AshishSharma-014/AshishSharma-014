@@ -9,7 +9,7 @@
 
 ### 🛠️ Technologies & Tools
 
-- 💻 HTML | CSS | Python | C  
+- 💻 HTML | CSS | Python | C | C++ | JAVA 
 - 🖌️ Canva | Adobe Photoshop  
 
 ---
