@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub stats card -->
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishSharma-014&show_icons=true&theme=radical)
+![Ashish's GitHub Stats](https://github.com/AshishSharma-014)
 
 <!-- Top languages card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishSharma-014&layout=compact&theme=radical)
